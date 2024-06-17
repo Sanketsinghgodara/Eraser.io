@@ -1,5 +1,5 @@
  
-# Eraser.io - README
+# Eraser.io - By SanketGodara
 
 ## Project Overview
 
